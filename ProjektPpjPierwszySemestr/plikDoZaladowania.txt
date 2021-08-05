@@ -1,0 +1,100 @@
+SkoczekSpadochronowy, 139.3795444628487, aero_klub, 1, 98, 0, brak, szkoleniowe, 1538, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 103.27112318226, aero_klub, 0, 75, 0, brak, szkoleniowe, 802, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 156.81193093896204, aero_klub, 0, 199, 0, brak, szkoleniowe, 683, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 89.48533370694092, aero_klub, 1, 16, 0, brak, szkoleniowe, 197, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 85.39962077667937, aero_klub, 1, 3, 0, brak, szkoleniowe, 1285, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 75.94947337537778, aero_klub, 0, 181, 0, brak, szkoleniowe, 884, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 45.43632290840455, aero_klub, 0, 70, 0, brak, szkoleniowe, 854, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 169.60182653385783, aero_klub, 1, 116, 0, brak, szkoleniowe, 1704, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 218.51969629803955, aero_klub, 0, 100, 0, brak, szkoleniowe, 1534, osoba_prywatna, aero_klub
+SkoczekSpadochronowy, 237.24647011721552, aero_klub, 0, 189, 0, brak, szkoleniowe, 1765, osoba_prywatna, aero_klub
+SamolotPasazerski, 901.475594170693, Berlin, 0, 611979, 4, Rolls-Royce_RB211, samolot_rejsowy, 2001, lufthansa, 74.73483, 39.10978, 39.728905, 183.36096, 286, 6967, moskwa, RDC1135, 2978, 19310, 61, 111
+SamolotPasazerski, 230.3401528614305, Berlin, 3, 1273678, 4, Rolls-Royce_RB211, samolot_rejsowy, 1990, lufthansa, 44.102512, 56.11277, 25.403494, 21.83587, 1023, 11084, moskwa, RDC1135, 8268, 1869, 255, 339
+SamolotPasazerski, 957.896166846057, Berlin, 0, 586445, 4, Rolls-Royce_RB211, samolot_rejsowy, 2020, lufthansa, 68.4719, 18.630081, 68.70171, 595.2571, 835, 9781, moskwa, RDC1135, 9136, 17460, 631, 462
+SamolotPasazerski, 511.36295945456254, Berlin, 0, 615371, 4, Rolls-Royce_RB211, samolot_rejsowy, 1981, lufthansa, 2.18324, 24.712372, 14.80317, 538.9079, 639, 8675, moskwa, RDC1135, 9932, 3336, 25, 355
+SamolotPasazerski, 157.74563004595532, Berlin, 1, 1355861, 4, Rolls-Royce_RB211, samolot_rejsowy, 1965, lufthansa, 25.343927, 69.545906, 7.481853, 217.71611, 1368, 4818, moskwa, RDC1135, 4595, 7450, 763, 491
+SamolotPasazerski, 840.3495865351149, Berlin, 4, 901346, 5, Rolls-Royce_RB211, samolot_rejsowy, 1980, lufthansa, 13.172931, 23.622414, 18.90277, 535.13696, 94, 12516, moskwa, RDC1135, 7999, 5191, 631, 267
+SamolotPasazerski, 550.2769406855444, Berlin, 2, 1104748, 4, Rolls-Royce_RB211, samolot_rejsowy, 2006, lufthansa, 3.8268373, 43.64497, 70.48565, 570.40356, 1008, 5635, moskwa, RDC1135, 9529, 2885, 214, 356
+SamolotPasazerski, 536.4522622182221, Berlin, 2, 1316630, 5, Rolls-Royce_RB211, samolot_rejsowy, 2015, lufthansa, 74.19706, 68.611664, 9.029679, 655.3877, 331, 7633, moskwa, RDC1135, 5415, 17398, 920, 268
+SamolotPasazerski, 738.3254130709308, Berlin, 2, 511260, 4, Rolls-Royce_RB211, samolot_rejsowy, 1973, lufthansa, 54.94382, 3.499232, 38.33834, 883.6066, 1059, 11437, moskwa, RDC1135, 1645, 14228, 724, 443
+SamolotPasazerski, 774.3684703207884, Berlin, 1, 250326, 5, Rolls-Royce_RB211, samolot_rejsowy, 2020, lufthansa, 70.71261, 71.3641, 10.670621, 858.93726, 585, 7255, moskwa, RDC1135, 1988, 15459, 365, 69
+SamolotTransportowy, 772.7052410749205, Lotnisko_chopina_Warszawa, 4, 989227, 5, silniki_odrzutowe, Samolot_transportowy, 1996, Firma_zajmujaca_sie_transportem_lotniczym, 64.27475, 24.515768, 66.56601, 790.92084, 782, 2357, Paryz, AZX2181, 2381, 3617, 151
+SamolotTransportowy, 478.2982154666449, Frankfurt, 1, 1079797, 4, silniki_smiglowe, Samolot_transportowy, 1985, Firma_zajmujaca_sie_transportem_lotniczym, 68.690056, 69.5715, 14.968401, 884.96155, 48, 11458, modlin, AMSQ2355, 5054, 4319, 57
+SamolotTransportowy, 507.5737046897235, LAX, 2, 834599, 5, silniki_odrzutowe, Samolot_transportowy, 1991, Firma_zajmujaca_sie_transportem_lotniczym, 50.770866, 3.8142512, 84.48587, 722.25543, 791, 2943, praga, GCVX6262, 5110, 9935, 936
+SamolotTransportowy, 186.31474964933736, Berlin, 1, 1204975, 4, silniki_odrzutowe, Samolot_transportowy, 2011, Firma_zajmujaca_sie_transportem_lotniczym, 9.90841, 45.931026, 5.0941653, 557.5813, 1368, 2277, moskwa, JFSD623, 9842, 11200, 63
+SamolotTransportowy, 496.13732831516865, Londyn, 4, 870216, 5, silniki_smiglowe, Samolot_transportowy, 1984, Firma_zajmujaca_sie_transportem_lotniczym, 10.893496, 64.30243, 14.0948515, 68.651505, 263, 8283, rzym, KHFD7421, 5757, 4917, 581
+SamolotTransportowy, 939.9743891430211, Amsterdam, 1, 439110, 5, silniki_odrzutowe, Samolot_transportowy, 2007, Firma_zajmujaca_sie_transportem_lotniczym, 24.525312, 39.33336, 51.51788, 357.4557, 10, 9078, mediolan, SFWW3113, 2540, 6065, 962
+SamolotTransportowy, 101.81838094424079, Ontario, 0, 563687, 5, silniki_smiglowe, Samolot_transportowy, 2015, Firma_zajmujaca_sie_transportem_lotniczym, 61.752804, 56.54027, 29.61786, 717.7893, 773, 12604, amsterdam, DWQS4132, 3372, 3022, 547
+SamolotTransportowy, 621.1840034333775, Bratyslawa, 2, 905065, 5, silniki_odrzutowe, Samolot_transportowy, 1980, Firma_zajmujaca_sie_transportem_lotniczym, 18.43147, 86.95011, 61.971825, 385.14407, 623, 5626, lwow, SDVX3123, 8216, 18386, 837
+SamolotTransportowy, 868.7765021560776, Barcelona, 0, 456999, 5, silniki_smiglowe, Samolot_transportowy, 1981, Firma_zajmujaca_sie_transportem_lotniczym, 66.22991, 5.042084, 61.768406, 127.212494, 93, 11171, kair, SDFB7561, 9351, 4970, 83
+SamolotTransportowy, 406.0612348405237, Lotnisko_chopina_Warszawa, 1, 216759, 4, silniki_odrzutowe_2_platowe, Samolot_transportowy, 1965, Firma_zajmujaca_sie_transportem_lotniczym, 42.341946, 80.71863, 80.250824, 283.6651, 776, 761, frankfurt, QR8195, 31, 9046, 996
+Dron, 21.551823851756403, parking_miejski, 0, 2, 0, elektryczny, hobbistyczny, 2016, osoba_prywatna, 25, 40, 1634
+Dron, 116.41207640323672, parking_miejski, 0, 1, 3, elektryczny, hobbistyczny, 2018, osoba_prywatna, 3, 58, 919
+Dron, 82.4088922053379, parking_miejski, 0, 1, 1, elektryczny, hobbistyczny, 2012, osoba_prywatna, 2, 105, 152
+Dron, 142.63620540801932, parking_miejski, 0, 2, 3, elektryczny, hobbistyczny, 2014, osoba_prywatna, 15, 191, 1156
+Dron, 127.42231015121853, parking_miejski, 0, 2, 3, elektryczny, hobbistyczny, 2016, osoba_prywatna, 13, 142, 1723
+Dron, 8.2684163611916, parking_miejski, 0, 0, 3, elektryczny, hobbistyczny, 2010, osoba_prywatna, 11, 208, 2944
+Dron, 21.697267788231777, parking_miejski, 0, 2, 0, elektryczny, hobbistyczny, 2010, osoba_prywatna, 4, 209, 2489
+Dron, 57.1827237497194, parking_miejski, 0, 0, 3, elektryczny, hobbistyczny, 2016, osoba_prywatna, 4, 118, 2249
+Dron, 6.436615196077478, parking_miejski, 0, 0, 2, elektryczny, hobbistyczny, 2015, osoba_prywatna, 28, 102, 412
+Dron, 29.1477859080969, parking_miejski, 0, 1, 1, elektryczny, hobbistyczny, 2017, osoba_prywatna, 27, 16, 1055
+Paralotnia, 116.25709204215133, aero_klub, 1, 150, 1, brak, hobbistyczne, 2013, osoba_prywatna, 3.3723297, 19.177713
+Paralotnia, 122.49159728154967, aero_klub, 0, 559, 1, brak, szkoleniowe, 1990, kurs_paralotniarski, 0.293765, 34.41434
+Paralotnia, 53.15363678533211, aero_klub, 0, 247, 1, brak, hobbistyczne, 1962, osoba_prywatna, 19.164358, 1.8422664
+Paralotnia, 166.57148927683727, aero_klub, 1, 423, 1, brak, hobbistyczne, 2018, osoba_prywatna, 5.938389, 41.088394
+Paralotnia, 126.66979721031181, aero_klub, 1, 432, 1, brak, hobbistyczne, 1985, osoba_prywatna, 5.343867, 26.98728
+Paralotnia, 192.88582452264862, aero_klub, 1, 329, 1, brak, hobbistyczne, 1996, osoba_prywatna, 2.8951926, 40.034264
+Paralotnia, 199.71160454169566, aero_klub, 1, 469, 1, brak, hobbistyczne, 2008, osoba_prywatna, 4.70774, 2.6769571
+Paralotnia, 158.15773589292667, aero_klub, 0, 39, 1, brak, hobbistyczne, 1961, osoba_prywatna, 5.6681395, 32.118233
+Paralotnia, 163.05423453832665, aero_klub, 0, 307, 1, brak, szkoleniowe, 1968, kurs_paralotniarski, 20.6018, 14.951477
+Paralotnia, 105.03249082019985, aero_klub, 1, 406, 1, brak, hobbistyczne, 2015, osoba_prywatna, 11.777454, 13.055546
+Szybowiec, 38.83745070996825, aero_klub, 0, 0, 0, brak, rekreacyjne, 1968, aero_klub, 26.786152, 9.129423, 1.782097, 24.206629, 75, 4228, aero_klub, YTM4781, 96, 8
+Szybowiec, 82.43320182099191, Aero_klub, 1, 0, 0, brak, szkoleniowe, 1956, aero_klub, 13.312895, 9.110675, 1.5059493, 29.034843, 67, 4647, aero_klub, JKL7123, 81, 13
+Szybowiec, 148.25300754168023, Aero_klub, 0, 0, 0, brak, szkoleniowe, 2017, aero_klub, 12.970828, 4.9946003, 2.6916263, 38.078236, 132, 4164, aero_klub, HAS322, 98, 6
+Szybowiec, 62.79984954965574, Aero_klub, 0, 0, 0, brak, szkoleniowe, 1995, aero_klub, 25.043814, 0.33968505, 2.976842, 40.928143, 152, 7087, aero_klub, LQW3484, 81, 31
+Szybowiec, 169.87251422280153, Aero_klub, 0, 0, 0, brak, szkoleniowe, 2000, aero_klub, 20.660946, 3.72601, 2.779817, 34.308434, 187, 3336, aero_klub, PYV4128, 41, 28
+Szybowiec, 3.0514723766752483, Aero_klub, 0, 0, 0, brak, szkoleniowe, 1959, aero_klub, 25.363743, 17.4628, 1.8216046, 2.2659743, 120, 5957, aero_klub, ASFE4513, 7, 30
+Szybowiec, 85.61303555772086, Aero_klub, 0, 0, 0, brak, szkoleniowe, 2010, aero_klub, 13.8422, 5.871455, 0.15097576, 44.10438, 276, 5563, aero_klub, HSDZ4189, 68, 28
+Szybowiec, 179.8298738821856, Aero_klub, 1, 0, 0, brak, szkoleniowe, 1955, aero_klub, 13.590471, 7.1905684, 0.51756865, 27.243046, 175, 5797, aero_klub, GQSX9560, 25, 45
+Szybowiec, 184.85210615241226, Aero_klub, 1, 0, 0, brak, szkoleniowe, 1965, aero_klub, 8.575518, 2.0597873, 0.9312391, 24.162304, 143, 4335, aero_klub, AXXC1132, 37, 34
+Szybowiec, 86.93429677347052, Aero_klub, 1, 0, 0, brak, szkoleniowe, 1988, aero_klub, 15.81221, 2.5004861, 2.3508065, 3.7547119, 208, 3958, aero_klub, BBD1117, 39, 24
+RakietaKosmiczna, 34229.295049361834, kosmodrom_bajkonur, 0, 1562569, 5, naped rakietowy, zaopatrzenie_iss, 1974, spaceX, 10.35976, 13.140532, falcon1
+RakietaKosmiczna, 36591.565046671225, kosmodrom_bajkonur, 0, 2957994, 10, naped rakietowy, rakieta_testowa, 1993, spaceX, 57.749874, 9.026937, falcon1e
+RakietaKosmiczna, 38891.42763104949, kosmodrom_bajkonur, 0, 2018589, 13, naped rakietowy, loty_na_niska_orbite, 1973, spaceX, 82.28589, 13.3411665, falcon1.1
+RakietaKosmiczna, 28248.78887873945, kosmodrom, 0, 1081013, 1, naped rakietowy, wynoszenie_ladunkow_na_orbite_okolo_ziemska, 1969, NASA, 72.68586, 0.5533321, Atlas_V
+RakietaKosmiczna, 34641.380724954535, kosmodrom, 0, 2079984, 10, naped rakietowy, eksploracja_kosmosu, 1971, nasa, 35.100243, 21.568703, Saturn I
+RakietaKosmiczna, 5307.919476616956, kosmodrom, 3, 1713902, 12, naped rakietowy, loty_w_kosmos, 1980, NASA, 62.995663, 21.775883, Saturm_V_AS-501
+RakietaKosmiczna, 11947.998424843268, kosmodrom, 0, 590797, 4, naped rakietowy, lot_na_niska_orbite, 2005, ZSSR, 58.360203, 10.468674, proton
+RakietaKosmiczna, 11494.734663355199, kosmodrom_bajkonur, 0, 1571942, 6, naped rakietowy, przenoszenie_ladunkow_na_ksiezyc, 1973, Rosja, 90.60258, 10.346533, Energia
+RakietaKosmiczna, 5761.6182156945015, kosmodrom_bajkonur, 0, 2234463, 5, naped rakietowy, rakieta_zapasowa, 1975, NASA, 68.34624, 10.0225315, Titan_I
+RakietaKosmiczna, 33236.380139446905, kosmodrom_bajkonur, 0, 1139248, 6, naped rakietowy, wynoszenie_satelit_wojskowych_na_orbite, 1952, NASA, 40.589108, 23.113941, Titan_IV
+Smiglowiec, 284.6796990718813, szpital_chirurgiczny, 1, 7788, 1, wirnik, Smiglowiec_ratunkowy, 1995, pogotowie, 5.2719145, 3.0390303, 4.444894, 2.5741751, 490, 2973
+Smiglowiec, 220.83143301310082, Baza_nato, 1, 1541, 0, wirnik, misja_pokojowa, 2002, USA_mariens, 15.3085375, 19.780981, 0.46765414, 3.4475498, 601, 1582
+Smiglowiec, 317.13410831233944, lotnisko_modlin, 1, 2898, 1, wirnik, transport_vip, 2001, prywatny, 15.664207, 14.108188, 1.5712588, 0.74080855, 767, 1954
+Smiglowiec, 232.12092293331955, baza_usa, 0, 5348, 1, wirnik, smiglowiec_bojowy, 2012, usa_army, 12.865191, 15.368556, 3.236835, 2.467571, 66, 335
+Smiglowiec, 209.73827812414586, rosyjska_baza, 0, 5495, 0, wirnik, smiglowiec_szturmowy, 2002, Rosja, 8.019706, 2.353218, 1.7523173, 5.90517, 468, 2247
+Smiglowiec, 65.45025488644536, aero_klub, 0, 1635, 0, wirnik, smiglowiec_szkoleniowy, 2017, aero_klub, 19.010725, 24.647339, 3.5314279, 1.3624558, 335, 235
+Smiglowiec, 283.7367457240037, baza_nato, 0, 8022, 1, wirnik, Smiglowiec_wielozadaniowy, 1979, nato, 21.755604, 27.435873, 5.985575, 5.0354233, 598, 1548
+Smiglowiec, 253.67089647991986, baza_nato, 1, 9456, 1, wirnik, Smiglowiec_szturmowy, 1989, wojsko_niemieckie, 0.540232, 19.479506, 1.1639668, 4.715215, 219, 3626
+Smiglowiec, 247.47212389221477, Rosyjska_baza_na_bialorusi, 1, 6633, 1, wirnik, Smiglowiec_szturmowy, 1975, Rosja, 2.4495783, 9.174785, 0.32903582, 0.67369765, 184, 5303
+Smiglowiec, 325.4124865188101, polwysep_iberyjski, 1, 5919, 1, wirnik, Smiglowiec_szturmowy, 1968, nato, 23.08975, 23.672668, 5.7390456, 3.23509, 253, 3935
+Sterowiec, 27.477032998384868, Frankfurt, 3, 1096, 0, brak, lot_trans_atlantycki, 944, cesarstwo_niemieckie, 1021, szkieletowy, 94.51897, 16.37138, false, wodór
+Sterowiec, 26.37944972362559, warszawa, 5, 441, 0, brak, wojsko_aeronautyczne, 1332, Polska, 2155, cisnieniowa, 53.94893, 17.865393, false, wodór
+Sterowiec, 28.67767098500198, torun, 6, 1078, 0, brak, projekt, 1617, Wytwórnia_Balonów_i_Spadochronów_w_Legionowie, 108, cisnieniowy, 19.608175, 19.560232, false, wodór
+Sterowiec, 6.725050223395757, Frankfurt, 0, 721, 0, brak, lot_widokowe, 1495, cesarstwo_niemieckie, 1958, polszkieletowy, 27.403433, 20.93096, false, wodór
+Sterowiec, 1.1906141404408077, mediolan, 2, 760, 0, brak, lot_na_biegun_polnocny, 284, wlochy, 1310, polszkieletowy, 17.610191, 23.707071, false, wodór
+Sterowiec, 9.063935788402329, spitsbergen, 8, 747, 0, brak, lot_do_taler, 577, norwegia, 1496, polszkieletowy, 25.272455, 19.38372, false, wodór
+Sterowiec, 20.57657864238019, berlin, 0, 521, 0, brak, test_mozliwosci_inzynierskich, 1554, cesarstwo_niemieckie, 1329, szkieletowy, 91.53659, 1.8654468, false, wodór
+Sterowiec, 19.996267110620717, Friedrichshafen, 1, 1373, 0, brak, loty_widokowe, 545, Deutsche_Zeppelin_Reederei, 2085, szkieletowy, 38.17847, 6.825603, false, hel
+Sterowiec, 4.035175129463047, nowy_jork, 9, 740, 0, brak, sterowiec_reklamowy, 1973, goodyear, 1766, szkieletowy, 36.637527, 18.430672, true, hel
+Sterowiec, 10.159035450890126, denwer, 9, 732, 0, brak, sterowiec_reklamowy, 1969, michelin, 1508, szkieletowy, 77.75019, 4.7406855, true, hel
+Balon, 28.32012468686911, laka, 3, 597, 0, brak, loty_widokowe, 373, fanatyk_balonow, 1935
+Balon, 21.438392642043837, laka, 7, 1013, 0, brak, loty_widokowe, 1825, fanatyk_balonow, 3557
+Balon, 0.6385630751643045, laka, 8, 304, 0, brak, loty_widokowe, 891, fanatyk_balonow, 3230
+Balon, 6.373550881465912, laka, 2, 78, 0, brak, loty_widokowe, 1585, fanatyk_balonow, 289
+Balon, 8.797033502174488, laka, 4, 1306, 0, brak, loty_widokowe, 1152, fanatyk_balonow, 3923
+Balon, 17.23995378607159, laka, 1, 1783, 0, brak, loty_widokowe, 851, fanatyk_balonow, 383
+Balon, 15.650763726791507, laka, 9, 1585, 0, brak, loty_widokowe, 1585, fanatyk_balonow, 137
+Balon, 9.116601460054703, laka, 1, 1625, 0, brak, loty_widokowe, 921, fanatyk_balonow, 3765
+Balon, 24.082589099418183, laka, 1, 955, 0, brak, loty_widokowe, 675, fanatyk_balonow, 2342
+Balon, 2.3864373127423457, laka, 5, 948, 0, brak, loty_widokowe, 1655, fanatyk_balonow, 1090
